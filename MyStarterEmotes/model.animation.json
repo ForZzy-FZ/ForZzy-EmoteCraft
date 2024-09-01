@@ -1,0 +1,125 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.model.tiny man": {
+			"animation_length": 8.375,
+			"bones": {
+				"body": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						},
+						"1.5": {
+							"vector": [0, -6, 0],
+							"easing": "linear"
+						},
+						"3.0": {
+							"vector": [0, 7, 0],
+							"easing": "linear"
+						},
+						"4.5": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						}
+					},
+					"scale": {
+						"0.0": {
+							"vector": [1, 1, 1],
+							"easing": "linear"
+						},
+						"1.5": {
+							"vector": [1, 0.5, 1],
+							"easing": "linear"
+						},
+						"3.0": {
+							"vector": [1, 1.6, 1],
+							"easing": "linear"
+						},
+						"4.5": {
+							"vector": [1, 1, 1],
+							"easing": "linear"
+						}
+					}
+				},
+				"left_arm": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						},
+						"5.9583": {
+							"vector": [0, 0, 0.1],
+							"easing": "linear"
+						},
+						"6.0": {
+							"vector": [0, 0, -15],
+							"easing": "linear"
+						},
+						"6.4583": {
+							"vector": [0, 0, -47.5],
+							"easing": "linear"
+						},
+						"6.75": {
+							"vector": [0, 0, -47.5],
+							"easing": "linear"
+						},
+						"7.2917": {
+							"vector": [0, 0, -47.5],
+							"easing": "linear"
+						},
+						"7.6667": {
+							"vector": [0, 0, -112.5],
+							"easing": "linear"
+						},
+						"7.9583": {
+							"vector": [0, 0, -85],
+							"easing": "linear"
+						},
+						"8.2917": {
+							"vector": [0, 0, -90],
+							"easing": "linear"
+						}
+					},
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						},
+						"5.9583": {
+							"vector": [-0.12, -0.48, 0],
+							"easing": "linear"
+						},
+						"6.75": {
+							"vector": [1, -13, 0],
+							"easing": "linear"
+						},
+						"7.2917": {
+							"vector": [1, -15, 0],
+							"easing": "linear"
+						},
+						"7.6667": {
+							"vector": [4, -20, 0],
+							"easing": "linear"
+						},
+						"8.375": {
+							"vector": [4, -21, 0],
+							"easing": "linear"
+						}
+					},
+					"scale": {
+						"0.0": {
+							"vector": [1, 1, 1],
+							"easing": "linear"
+						},
+						"7.9583": {
+							"vector": [1, 1, 1],
+							"easing": "linear"
+						}
+					}
+				}
+			},
+			"particle_effects": {}
+		}
+	}
+}
