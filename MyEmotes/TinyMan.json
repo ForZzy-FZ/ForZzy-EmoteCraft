@@ -1,0 +1,42 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"TinyMan": {
+			"loop": true,
+			"bones": {
+				"head": {
+					"position": {
+						"vector": [0, -17, 0],
+						"easing": "linear"
+					}
+				},
+				"right_arm": {
+					"rotation": {
+						"vector": [0, 0, 42.5],
+						"easing": "linear"
+					},
+					"position": {
+						"vector": [4, -11, 0],
+						"easing": "linear"
+					}
+				},
+				"left_arm": {
+					"rotation": {
+						"vector": [0, 0, -42.5],
+						"easing": "linear"
+					},
+					"position": {
+						"vector": [-4, -11, 0],
+						"easing": "linear"
+					}
+				},
+				"torso": {
+					"position": {
+						"vector": [834, 322, 0],
+						"easing": "linear"
+					}
+				}
+			}
+		}
+	}
+}
